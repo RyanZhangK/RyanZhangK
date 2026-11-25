@@ -19,6 +19,14 @@
 - 关注 **电赛、嵌入式控制** 和 **OpenWrt** 的实际应用。
 - 常用 **JavaScript、Python、C、Shell** 解决问题。
 
+### GitHub 活动
+
+<div align="center">
+
+[![RyanZhangK 的 GitHub 统计](https://github-stats-extended.vercel.app/api?username=RyanZhangK&show_icons=true&theme=transparent)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
+
 ### 正在构建
 
 - 📄 **[dsh-paper-translate](https://github.com/RyanZhangK/dsh-paper-translate)** — 将 BabelDOC 接入 DeepSeek Harness，翻译整篇 PDF 前先估算成本。

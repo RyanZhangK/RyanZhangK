@@ -27,20 +27,15 @@
 
 </div>
 
-### 正在构建
+### 我的项目
 
-- 📄 **[dsh-paper-translate](https://github.com/RyanZhangK/dsh-paper-translate)** — 将 BabelDOC 接入 DeepSeek Harness，翻译整篇 PDF 前先估算成本。
-- ✍️ **[dsh-writing](https://github.com/RyanZhangK/dsh-writing)** — 为长篇小说写作提供进度查询、检查与导出工具。
-- 🏆 **[nuedc-skill](https://github.com/RyanZhangK/nuedc-skill)** — 面向全国大学生电子设计竞赛的 AI 技能。
+<a href="https://github.com/RyanZhangK/dsh-paper-translate"><img src="https://gitshine.com/repo/RyanZhangK/dsh-paper-translate" alt="dsh-paper-translate 项目卡片" width="49%"></a> <a href="https://github.com/RyanZhangK/dsh-writing"><img src="https://gitshine.com/repo/RyanZhangK/dsh-writing" alt="dsh-writing 项目卡片" width="49%"></a>
+<a href="https://github.com/RyanZhangK/nuedc-skill"><img src="https://gitshine.com/repo/RyanZhangK/nuedc-skill" alt="nuedc-skill 项目卡片" width="49%"></a> <a href="https://github.com/RyanZhangK/ZDT_EmmV5_Driver"><img src="https://gitshine.com/repo/RyanZhangK/ZDT_EmmV5_Driver" alt="ZDT_EmmV5_Driver 项目卡片" width="49%"></a>
+<a href="https://github.com/RyanZhangK/luci-app-campnet"><img src="https://gitshine.com/repo/RyanZhangK/luci-app-campnet" alt="luci-app-campnet 项目卡片" width="49%"></a>
 
 ### 所在组织
 
 <a href="https://github.com/ZQU-Foray"><img src="https://gitshine.com/org/ZQU-Foray" alt="肇院 Foray 战队的 GitHub 组织信息卡片" width="49%"></a> <a href="https://github.com/lagrange-a1"><img src="https://gitshine.com/org/lagrange-a1" alt="Lagrange A1 的 GitHub 组织信息卡片" width="49%"></a>
-
-### 软硬件之间
-
-- ⚙️ **[ZDT_EmmV5_Driver](https://github.com/RyanZhangK/ZDT_EmmV5_Driver)** — 使用 HAL 封装 Emm V5 闭环步进电机驱动。
-- 🌐 **[luci-app-campnet](https://github.com/RyanZhangK/luci-app-campnet)** — 面向 ImmortalWrt / OpenWrt 23.05 的校园网 Portal 认证插件。
 
 <div align="center">
 

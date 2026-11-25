@@ -35,8 +35,7 @@
 
 ### 所在组织
 
-- 🧭 **[肇院 Foray 战队](https://github.com/ZQU-Foray)**
-- ✨ **[Lagrange A1 · 拉格朗日](https://github.com/lagrange-a1)**
+<a href="https://github.com/ZQU-Foray"><img src="https://gitshine.com/org/ZQU-Foray" alt="肇院 Foray 战队的 GitHub 组织信息卡片" width="49%"></a> <a href="https://github.com/lagrange-a1"><img src="https://gitshine.com/org/lagrange-a1" alt="Lagrange A1 的 GitHub 组织信息卡片" width="49%"></a>
 
 ### 软硬件之间
 
